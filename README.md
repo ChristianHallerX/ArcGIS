@@ -1,2 +1,2 @@
 # ArcGIS
- Projects with Mapping tools
+Projects prepared with ArcGis Pro. Open the .aprx file.

@@ -1,0 +1,56 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{B93F96BE-1015-47E0-8FD3-F4E03B3AF0C6}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Clip",
+      "description" : "Sets the extent of a raster using coordinates or another dataset.",
+      "rftPath" : "Clip_{B93F96BE-1015-47E0-8FD3-F4E03B3AF0C6}.rft.xml",
+      "startTime" : "636929705360000000",
+      "endTime" : "636929705360000000"
+    },
+    {
+      "id" : "{FD7F4F7B-00E0-4FD3-B5E2-BF16392CB8D3}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Clip",
+      "description" : "Sets the extent of a raster using coordinates or another dataset.",
+      "rftPath" : "Clip_{FD7F4F7B-00E0-4FD3-B5E2-BF16392CB8D3}.rft.xml",
+      "startTime" : "636929707370000000",
+      "endTime" : "636929707370000000"
+    },
+    {
+      "id" : "{0396F277-6653-410F-BEDF-860977F9A9B4}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Clip",
+      "description" : "Sets the extent of a raster using coordinates or another dataset.",
+      "rftPath" : "Clip_{0396F277-6653-410F-BEDF-860977F9A9B4}.rft.xml",
+      "startTime" : "636929709560000000",
+      "endTime" : "636929709560000000"
+    },
+    {
+      "id" : "{2AD82CD0-3D66-45C3-BBBD-B384ED7BF14B}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Clip",
+      "description" : "Sets the extent of a raster using coordinates or another dataset.",
+      "rftPath" : "Clip_{2AD82CD0-3D66-45C3-BBBD-B384ED7BF14B}.rft.xml",
+      "startTime" : "636929710020000000",
+      "endTime" : "636929710020000000"
+    },
+    {
+      "id" : "{C6EF6281-3F30-484E-BB28-BF25CCBF88A8}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Composite Bands",
+      "description" : "Combines multiple datasets into one multiband raster.",
+      "rftPath" : "Composite Bands_{C6EF6281-3F30-484E-BB28-BF25CCBF88A8}.rft.xml",
+      "startTime" : "636929712480000000",
+      "endTime" : "636929712480000000"
+    }
+  ]
+}
