@@ -13,3 +13,8 @@ Note: Projects prepared with ArcGis Pro. Open the .aprx file.
 
 <a href="https://storymaps.arcgis.com/stories/cf63162a6ef04e77b2555d59d744011f" target="_blank">Vision Zero Safety - 
 Bicycle Commuter Incidents in Washington D.C.</a>
+
+### Geo Surveys
+
+
+<a href="https://arcg.is/1amWrb" target="_blank">How smart is your community?</a>
