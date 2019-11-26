@@ -18,3 +18,5 @@ Bicycle Commuter Incidents in Washington D.C.</a>
 
 
 <a href="https://arcg.is/1amWrb" target="_blank">How smart is your community?</a>
+
+<a href="https://arcg.is/1raXKr" target="_blank">How smart is your community? Example Dashboard</a>
