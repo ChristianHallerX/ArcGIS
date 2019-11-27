@@ -1,11 +1,18 @@
-# Bike Mapper App
+# Bike Parking Mapper App
 
 **ArcGIS Online map collecting the entries**
 
 [https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png](https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png)
 
-**QR Code to Bike Mapper App**
+**Download on your device the _AppStudio Player for ArcGIS_ app to run apps in development and unsigned**
 
+[https://apps.apple.com/ca/app/appstudio-player-for-arcgis/id1018006050](https://apps.apple.com/ca/app/appstudio-player-for-arcgis/id1018006050)
+
+[https://play.google.com/store/apps/details?id=com.esri.appstudio.player&hl=en_US](https://play.google.com/store/apps/details?id=com.esri.appstudio.player&hl=en_US)
+
+**QR Code to Bike Parking Mapper App**
+
+After installing the _AppStudio Player for ArcGIS_ on your device you can sca the QR code to run the Bike Parking Mapper
 ![QR Code](https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png "QR Code")
 
 **Preview screens of Bike Mapper App**
