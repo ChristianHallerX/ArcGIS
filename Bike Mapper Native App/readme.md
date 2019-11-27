@@ -1,7 +1,9 @@
 # Bike Mapper App
 
+ArcGIS Online map collecting the entries
 [https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png](https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png)
 
+QR Code to Bike Mapper App
 ![QR Code](https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/QRcode.png "QR Code")
 
 
