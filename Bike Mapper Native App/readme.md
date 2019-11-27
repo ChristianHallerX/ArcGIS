@@ -23,6 +23,7 @@ After installing _AppStudio Player for ArcGIS_ on your device you can sca the QR
 
 
 
+
 **Preview screens of Bike Mapper App**
 
 ![Screen 1](https://github.com/ChristianHallerX/ArcGIS/blob/master/Bike%20Mapper%20Native%20App/bike_mapper_screen1.png "Screen 1")
