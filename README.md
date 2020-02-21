@@ -4,7 +4,7 @@ Note: Projects prepared with ArcGis Pro. Open the .aprx file.
 
 # ArcGIS Desktop
 
-The "ArcGIS" Specialization course was completed using esri ArcGIS 10.71
+The "ArcGIS Specialization" course was completed using esri ArcGIS 10.71 (~2019 version) and may best be viewed in that.
 
 
 # ArcGIS Online
