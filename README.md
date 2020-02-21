@@ -1,6 +1,10 @@
-# ArcGIS
+# ArcGIS PRO
 Note: Projects prepared with ArcGis Pro. Open the .aprx file.
 
+
+# ArcGIS Desktop
+
+The "ArcGIS" Specialization course was completed using esri ArcGIS 10.71
 
 
 # ArcGIS Online
