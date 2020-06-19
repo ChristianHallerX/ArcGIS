@@ -15,9 +15,9 @@ The project makes use of these data to train a machine learning model that predi
 
 ### Bike Mapper Native apps (App Studio)
 
-<a href="https://github.com/ChristianHallerX/ArcGIS/tree/master/Bike%20Mapper%20Native%20App" target="_blank">Bike Parking Mapper App</a>
-
 An app for smart phones built in AppStudio used for crowd-sourcing locations: Bike Lockers, Bike Shops, Bike Parking.
+ 
+<a href="https://github.com/ChristianHallerX/ArcGIS/tree/master/Bike%20Mapper%20Native%20App" target="_blank">Bike Parking Mapper App</a>
 
 
 ### Burn Scar Recovery (ArcGIS Pro)
@@ -45,6 +45,4 @@ Is the noxious gas ozone (O3) in California correlated with wealth or elevation?
 
 ### Reconstructing the paleo Lake Bonneville (ArcGIS Desktop)
 
-This project uses DEM data to calculate volumes and fluxes of the ancestor of the Great Salt Lake in Utah. Have a look at the article on the website and videos linked there!
-
-<a href="https://christianhallerx.github.io/research/2020-05-06-Bonneville/" target="_blank">
+This project uses DEM data to calculate volumes and fluxes of the ancestor of the Great Salt Lake in Utah. Have a look at the article on the website and videos linked there: <a href="https://christianhallerx.github.io/research/2020-05-06-Bonneville/" target="_blank">Link to article.</a>
