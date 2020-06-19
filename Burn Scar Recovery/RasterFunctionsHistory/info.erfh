@@ -1,0 +1,66 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{F2237866-F6BC-4A7F-B4DD-CEEDAE439B4D}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{F2237866-F6BC-4A7F-B4DD-CEEDAE439B4D}.rft.xml",
+      "startTime" : "636924152420000000",
+      "endTime" : "636924152420000000"
+    },
+    {
+      "id" : "{4D6E632D-D66B-43A3-A6BE-D62FD58D83CF}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{4D6E632D-D66B-43A3-A6BE-D62FD58D83CF}.rft.xml",
+      "startTime" : "636924143010000000",
+      "endTime" : "636924143010000000"
+    },
+    {
+      "id" : "{7A91C903-17EC-4640-AA17-79B32C01CDD9}",
+      "type" : 1,
+      "status" : 4,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{7A91C903-17EC-4640-AA17-79B32C01CDD9}.rft.xml",
+      "startTime" : "636924143230000000",
+      "endTime" : "636924143230000000"
+    },
+    {
+      "id" : "{2890ABF1-6EE8-4E93-AC3A-C7125886313B}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{2890ABF1-6EE8-4E93-AC3A-C7125886313B}.rft.xml",
+      "startTime" : "636924144780000000",
+      "endTime" : "636924144780000000"
+    },
+    {
+      "id" : "{D21D510B-DC69-4662-B7E3-00742393EE4D}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{D21D510B-DC69-4662-B7E3-00742393EE4D}.rft.xml",
+      "startTime" : "636924151460000000",
+      "endTime" : "636924151460000000"
+    },
+    {
+      "id" : "{64BF2CFF-AB32-415C-AF97-E63BC6072D27}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "dNBR",
+      "description" : "differenced Normalized Burn Ratio",
+      "rftPath" : "dNBR_{64BF2CFF-AB32-415C-AF97-E63BC6072D27}.rft.xml",
+      "startTime" : "636924153010000000",
+      "endTime" : "636924153010000000"
+    }
+  ]
+}
