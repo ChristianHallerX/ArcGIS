@@ -48,8 +48,3 @@ Is the noxious gas ozone (O3) in California correlated with wealth or elevation?
 This project uses DEM data to calculate volumes and fluxes of the ancestor of the Great Salt Lake in Utah. Have a look at the article on the website and videos linked there!
 
 <a href="https://christianhallerx.github.io/research/2020-05-06-Bonneville/" target="_blank">
-
-
-
-
-
